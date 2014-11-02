@@ -239,22 +239,12 @@
 				<string>registered</string>
 				<string>degree</string>
 				<string>paragraph</string>
-				<string>tea</string>
-				<string>heartfleuron</string>
 				<string>space</string>
-				<string>martini</string>
-				<string>H2</string>
-				<string>K3</string>
-				<string>Z2</string>
 				<string>onesuperior</string>
-				<string>p2</string>
-				<string>q2</string>
-				<string>t2</string>
-				<string>threecurve</string>
 				<string>threesuperior</string>
 				<string>twosuperior</string>
-				<string>z2</string>
-				<string>zeroslash</string>
+				<string>W2</string>
+				<string>M2</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -467,22 +457,12 @@
 		<string>registered</string>
 		<string>degree</string>
 		<string>paragraph</string>
-		<string>tea</string>
-		<string>heartfleuron</string>
 		<string>space</string>
-		<string>martini</string>
-		<string>H2</string>
-		<string>K3</string>
-		<string>Z2</string>
 		<string>onesuperior</string>
-		<string>p2</string>
-		<string>q2</string>
-		<string>t2</string>
-		<string>threecurve</string>
 		<string>threesuperior</string>
 		<string>twosuperior</string>
-		<string>z2</string>
-		<string>zeroslash</string>
+		<string>W2</string>
+		<string>M2</string>
 	</array>
 </dict>
 </plist>

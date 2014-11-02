@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="tilde" format="1">
+<glyph name="ogonek" format="1">
   <advance width="500"/>
-  <unicode hex="02DC"/>
+  <unicode hex="02DB"/>
   <outline>
   </outline>
   <lib>
@@ -23,7 +23,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>tilde</string>
+          <string>ogonek</string>
           <key>unicodes</key>
           <array>
           </array>
