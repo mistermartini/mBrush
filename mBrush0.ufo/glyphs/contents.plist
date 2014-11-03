@@ -64,10 +64,20 @@
 	<string>copyright.glif</string>
 	<key>degree</key>
 	<string>degree.glif</string>
+	<key>eight</key>
+	<string>eight.glif</string>
+	<key>five</key>
+	<string>five.glif</string>
+	<key>four</key>
+	<string>four.glif</string>
 	<key>hungarumlaut</key>
 	<string>hungarumlaut.glif</string>
+	<key>nine</key>
+	<string>nine.glif</string>
 	<key>ogonek</key>
 	<string>ogonek.glif</string>
+	<key>one</key>
+	<string>one.glif</string>
 	<key>onesuperior</key>
 	<string>onesuperior.glif</string>
 	<key>paragraph</key>
@@ -78,13 +88,23 @@
 	<string>ring.glif</string>
 	<key>section</key>
 	<string>section.glif</string>
+	<key>seven</key>
+	<string>seven.glif</string>
+	<key>six</key>
+	<string>six.glif</string>
 	<key>space</key>
 	<string>space.glif</string>
+	<key>three</key>
+	<string>three.glif</string>
 	<key>threesuperior</key>
 	<string>threesuperior.glif</string>
 	<key>tilde</key>
 	<string>tilde.glif</string>
+	<key>two</key>
+	<string>two.glif</string>
 	<key>twosuperior</key>
 	<string>twosuperior.glif</string>
+	<key>zero</key>
+	<string>zero.glif</string>
 </dict>
 </plist>

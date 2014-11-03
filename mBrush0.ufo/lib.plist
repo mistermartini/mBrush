@@ -9,16 +9,20 @@
 		<real>0.2</real>
 		<real>0.7</real>
 	</array>
+	<key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
+	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.autohint</key>
-	<true/>
+	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.checkOutlines</key>
-	<true/>
+	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.decompose</key>
-	<true/>
+	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
 	<integer>0</integer>
+	<key>com.typemytype.robofont.compileSettings.path</key>
+	<string>/Users/mac/github/fonts/mBrush/mBrush0.otf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
-	<false/>
+	<integer>0</integer>
 	<key>com.typemytype.robofont.italicSlantOffset</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.layerOrder</key>
