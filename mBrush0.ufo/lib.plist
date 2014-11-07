@@ -249,6 +249,31 @@
 				<string>twosuperior</string>
 				<string>W2</string>
 				<string>M2</string>
+				<string>tea</string>
+				<string>cocktail</string>
+				<string>the</string>
+				<string>bullet.copy_1</string>
+				<string>doubledagger.copy_1</string>
+				<string>question.copy_1</string>
+				<string>percent.copy_1</string>
+				<string>colon.copy_1</string>
+				<string>periodcentered.copy_1</string>
+				<string>period.copy_1</string>
+				<string>ampersand.copy_1</string>
+				<string>questiondown.copy_1</string>
+				<string>dagger.copy_1</string>
+				<string>ellipsis.copy_1</string>
+				<string>quotesingle.copy_1</string>
+				<string>less.copy_1</string>
+				<string>asterisk.copy_1</string>
+				<string>semicolon.copy_1</string>
+				<string>numbersign.copy_1</string>
+				<string>comma.copy_1</string>
+				<string>slash.copy_1</string>
+				<string>backslash.copy_1</string>
+				<string>at.copy_1</string>
+				<string>exclamdown.copy_1</string>
+				<string>plus.copy_1</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -467,6 +492,33 @@
 		<string>twosuperior</string>
 		<string>W2</string>
 		<string>M2</string>
+		<string>tea</string>
+		<string>cocktail</string>
+		<string>the</string>
+		<string>bullet.copy_1</string>
+		<string>doubledagger.copy_1</string>
+		<string>question.copy_1</string>
+		<string>percent.copy_1</string>
+		<string>colon.copy_1</string>
+		<string>periodcentered.copy_1</string>
+		<string>period.copy_1</string>
+		<string>ampersand.copy_1</string>
+		<string>questiondown.copy_1</string>
+		<string>dagger.copy_1</string>
+		<string>ellipsis.copy_1</string>
+		<string>quotesingle.copy_1</string>
+		<string>less.copy_1</string>
+		<string>asterisk.copy_1</string>
+		<string>semicolon.copy_1</string>
+		<string>numbersign.copy_1</string>
+		<string>comma.copy_1</string>
+		<string>slash.copy_1</string>
+		<string>backslash.copy_1</string>
+		<string>at.copy_1</string>
+		<string>exclamdown.copy_1</string>
+		<string>plus.copy_1</string>
+		<string>wuuuhh</string>
+		<string>fi</string>
 	</array>
 </dict>
 </plist>
