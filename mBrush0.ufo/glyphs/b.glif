@@ -4,35 +4,104 @@
   <unicode hex="0062"/>
   <outline>
     <contour>
-      <point x="70" y="744" type="move"/>
-      <point x="94" y="745"/>
-      <point x="476" y="779"/>
-      <point x="471" y="626" type="curve" smooth="yes"/>
-      <point x="466" y="473"/>
-      <point x="179" y="481"/>
-      <point x="112" y="482" type="curve"/>
-      <point x="422" y="492"/>
-      <point x="486" y="440"/>
-      <point x="493" y="393" type="curve" smooth="yes"/>
-      <point x="513" y="258"/>
-      <point x="178" y="251"/>
-      <point x="105" y="248" type="curve"/>
-      <point x="114" y="273"/>
-      <point x="107" y="693"/>
-      <point x="103" y="744" type="curve"/>
+      <point x="69" y="768" type="curve" smooth="yes"/>
+      <point x="98" y="769"/>
+      <point x="500" y="787"/>
+      <point x="495" y="625" type="curve" smooth="yes"/>
+      <point x="490" y="462"/>
+      <point x="189" y="457"/>
+      <point x="112" y="458" type="curve" smooth="yes"/>
+      <point x="67" y="459"/>
+      <point x="67" y="505"/>
+      <point x="111" y="506" type="curve" smooth="yes"/>
+      <point x="472" y="518"/>
+      <point x="509" y="447"/>
+      <point x="517" y="397" type="curve" smooth="yes"/>
+      <point x="538" y="253"/>
+      <point x="199" y="228"/>
+      <point x="106" y="224" type="curve" smooth="yes"/>
+      <point x="86" y="223"/>
+      <point x="76" y="238"/>
+      <point x="82" y="256" type="curve" smooth="yes"/>
+      <point x="91" y="281"/>
+      <point x="83" y="692"/>
+      <point x="79" y="742" type="curve" smooth="yes"/>
+      <point x="78" y="755"/>
+      <point x="88" y="767"/>
+      <point x="101" y="768" type="curve" smooth="yes"/>
+      <point x="114" y="769"/>
+      <point x="126" y="759"/>
+      <point x="127" y="746" type="curve" smooth="yes"/>
+      <point x="131" y="694"/>
+      <point x="137" y="265"/>
+      <point x="128" y="240" type="curve"/>
+      <point x="104" y="272" type="line"/>
+      <point x="157" y="274"/>
+      <point x="488" y="263"/>
+      <point x="469" y="389" type="curve" smooth="yes"/>
+      <point x="463" y="433"/>
+      <point x="372" y="466"/>
+      <point x="113" y="458" type="curve"/>
+      <point x="112" y="506" type="line"/>
+      <point x="169" y="505"/>
+      <point x="442" y="484"/>
+      <point x="447" y="627" type="curve" smooth="yes"/>
+      <point x="452" y="771"/>
+      <point x="90" y="721"/>
+      <point x="71" y="720" type="curve" smooth="yes"/>
+      <point x="58" y="719"/>
+      <point x="47" y="730"/>
+      <point x="46" y="743" type="curve" smooth="yes"/>
+      <point x="45" y="756"/>
+      <point x="56" y="767"/>
     </contour>
     <contour>
-      <point x="40" y="179" type="move"/>
-      <point x="140" y="185"/>
-      <point x="473" y="169"/>
-      <point x="524" y="180" type="curve" smooth="yes"/>
-      <point x="575" y="191"/>
+      <point x="39" y="203" type="curve" smooth="yes"/>
+      <point x="138" y="209"/>
+      <point x="468" y="193"/>
+      <point x="519" y="203" type="curve" smooth="yes"/>
+      <point x="532" y="206"/>
+      <point x="545" y="198"/>
+      <point x="547" y="185" type="curve" smooth="yes"/>
+      <point x="550" y="172"/>
+      <point x="542" y="159"/>
+      <point x="529" y="157" type="curve" smooth="yes"/>
+      <point x="478" y="145"/>
+      <point x="142" y="161"/>
+      <point x="41" y="155" type="curve" smooth="yes"/>
+      <point x="29" y="154"/>
+      <point x="17" y="165"/>
+      <point x="16" y="178" type="curve" smooth="yes"/>
+      <point x="15" y="190"/>
+      <point x="26" y="202"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>b</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>560</integer>
+        </dict>
       </dict>
     </dict>
   </lib>
