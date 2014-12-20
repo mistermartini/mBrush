@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>A</key>
+	<string>A_.glif</string>
+	<key>B</key>
+	<string>B_.glif</string>
+	<key>C</key>
+	<string>C_.glif</string>
+	<key>Ccedilla</key>
+	<string>Ccedilla_.glif</string>
+	<key>D</key>
+	<string>D_.glif</string>
+	<key>E</key>
+	<string>E_.glif</string>
+	<key>Eacute</key>
+	<string>Eacute_.glif</string>
+	<key>Ecircumflex</key>
+	<string>Ecircumflex_.glif</string>
+	<key>Edieresis</key>
+	<string>Edieresis_.glif</string>
+	<key>Egrave</key>
+	<string>Egrave_.glif</string>
+	<key>F</key>
+	<string>F_.glif</string>
+	<key>G</key>
+	<string>G_.glif</string>
+	<key>H</key>
+	<string>H_.glif</string>
+	<key>I</key>
+	<string>I_.glif</string>
+	<key>Iacute</key>
+	<string>Iacute_.glif</string>
+	<key>Icircumflex</key>
+	<string>Icircumflex_.glif</string>
+	<key>Idieresis</key>
+	<string>Idieresis_.glif</string>
+	<key>Igrave</key>
+	<string>Igrave_.glif</string>
+	<key>S</key>
+	<string>S_.glif</string>
+	<key>currency</key>
+	<string>currency.glif</string>
+</dict>
+</plist>
