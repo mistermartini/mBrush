@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="e" format="1">
+<glyph name="ecircumflex" format="1">
   <advance width="569"/>
-  <unicode hex="0065"/>
+  <unicode hex="00EA"/>
   <outline>
     <contour>
       <point x="60" y="462" type="curve" smooth="yes"/>
@@ -83,6 +83,36 @@
       <point x="29" y="258"/>
       <point x="40" y="269"/>
     </contour>
+    <contour>
+      <point x="100" y="552" type="curve" smooth="yes"/>
+      <point x="132" y="575"/>
+      <point x="271" y="708"/>
+      <point x="271" y="708" type="curve" smooth="yes"/>
+      <point x="281" y="718"/>
+      <point x="297" y="717"/>
+      <point x="306" y="707" type="curve" smooth="yes"/>
+      <point x="306" y="707"/>
+      <point x="436" y="561"/>
+      <point x="455" y="548" type="curve" smooth="yes"/>
+      <point x="466" y="541"/>
+      <point x="469" y="526"/>
+      <point x="462" y="515" type="curve" smooth="yes"/>
+      <point x="455" y="504"/>
+      <point x="440" y="501"/>
+      <point x="429" y="508" type="curve" smooth="yes"/>
+      <point x="408" y="521"/>
+      <point x="270" y="675"/>
+      <point x="270" y="675" type="curve"/>
+      <point x="305" y="674" type="line"/>
+      <point x="304" y="674"/>
+      <point x="160" y="537"/>
+      <point x="128" y="514" type="curve" smooth="yes"/>
+      <point x="117" y="506"/>
+      <point x="102" y="508"/>
+      <point x="95" y="519" type="curve" smooth="yes"/>
+      <point x="87" y="530"/>
+      <point x="89" y="545"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -103,7 +133,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>e</string>
+          <string>ecircumflex</string>
           <key>unicodes</key>
           <array>
           </array>

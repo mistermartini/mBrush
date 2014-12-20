@@ -1,22 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="igrave" format="1">
-  <advance width="191"/>
-  <unicode hex="00EC"/>
+<glyph name="S" format="1">
+  <advance width="500"/>
+  <unicode hex="0053"/>
   <outline>
-    <contour>
-      <point x="118" y="556" type="move"/>
-      <point x="143" y="439"/>
-      <point x="145" y="79"/>
-      <point x="138" y="0" type="curve" smooth="yes"/>
-      <point x="131" y="-79"/>
-    </contour>
-    <contour>
-      <point x="37" y="703" type="move"/>
-      <point x="63" y="696"/>
-      <point x="115" y="648"/>
-      <point x="126" y="630" type="curve" smooth="yes"/>
-      <point x="137" y="612"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -37,12 +23,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>igrave</string>
+          <string>S</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>191</integer>
+          <integer>500</integer>
         </dict>
       </dict>
     </dict>

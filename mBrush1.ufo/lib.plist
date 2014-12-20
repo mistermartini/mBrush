@@ -9,20 +9,16 @@
 		<real>0.2</real>
 		<real>0.7</real>
 	</array>
-	<key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
-	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.autohint</key>
-	<integer>1</integer>
+	<true/>
 	<key>com.typemytype.robofont.compileSettings.checkOutlines</key>
-	<integer>1</integer>
+	<false/>
 	<key>com.typemytype.robofont.compileSettings.decompose</key>
-	<integer>1</integer>
+	<false/>
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
 	<integer>0</integer>
-	<key>com.typemytype.robofont.compileSettings.path</key>
-	<string>/Users/mac/github/fonts/mBrush/mBrush0.otf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
-	<integer>0</integer>
+	<false/>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
 	<array>
 		<real>0.5</real>
@@ -39,7 +35,7 @@
 	<key>com.typemytype.robofont.segmentType</key>
 	<string>curve</string>
 	<key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
-	<false/>
+	<integer>0</integer>
 	<key>com.typemytype.robofont.sort</key>
 	<array>
 		<dict>
@@ -180,8 +176,6 @@
 				<string>threequarters</string>
 				<string>underscore</string>
 				<string>hyphen</string>
-				<string>endash</string>
-				<string>emdash</string>
 				<string>parenleft</string>
 				<string>bracketleft</string>
 				<string>braceleft</string>
@@ -189,11 +183,9 @@
 				<string>bracketright</string>
 				<string>braceright</string>
 				<string>guillemotleft</string>
-				<string>leftsinglequo</string>
 				<string>quoteleft</string>
 				<string>guillemotright</string>
 				<string>quoteright</string>
-				<string>rightsinglequo</string>
 				<string>exclam</string>
 				<string>quotedbl</string>
 				<string>numbersign</string>
@@ -212,10 +204,6 @@
 				<string>exclamdown</string>
 				<string>periodcentered</string>
 				<string>questiondown</string>
-				<string>dagger</string>
-				<string>doubledagger</string>
-				<string>bullet</string>
-				<string>ellipsis</string>
 				<string>plus</string>
 				<string>less</string>
 				<string>equal</string>
@@ -254,35 +242,6 @@
 				<string>onesuperior</string>
 				<string>threesuperior</string>
 				<string>twosuperior</string>
-				<string>W2</string>
-				<string>M2</string>
-				<string>tea</string>
-				<string>cocktail</string>
-				<string>the</string>
-				<string>bullet.copy_1</string>
-				<string>doubledagger.copy_1</string>
-				<string>question.copy_1</string>
-				<string>percent.copy_1</string>
-				<string>colon.copy_1</string>
-				<string>periodcentered.copy_1</string>
-				<string>period.copy_1</string>
-				<string>ampersand.copy_1</string>
-				<string>questiondown.copy_1</string>
-				<string>dagger.copy_1</string>
-				<string>ellipsis.copy_1</string>
-				<string>quotesingle.copy_1</string>
-				<string>less.copy_1</string>
-				<string>asterisk.copy_1</string>
-				<string>semicolon.copy_1</string>
-				<string>numbersign.copy_1</string>
-				<string>comma.copy_1</string>
-				<string>slash.copy_1</string>
-				<string>backslash.copy_1</string>
-				<string>at.copy_1</string>
-				<string>exclamdown.copy_1</string>
-				<string>plus.copy_1</string>
-				<string>wuuuhh</string>
-				<string>fi</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -425,8 +384,6 @@
 		<string>threequarters</string>
 		<string>underscore</string>
 		<string>hyphen</string>
-		<string>endash</string>
-		<string>emdash</string>
 		<string>parenleft</string>
 		<string>bracketleft</string>
 		<string>braceleft</string>
@@ -434,11 +391,9 @@
 		<string>bracketright</string>
 		<string>braceright</string>
 		<string>guillemotleft</string>
-		<string>leftsinglequo</string>
 		<string>quoteleft</string>
 		<string>guillemotright</string>
 		<string>quoteright</string>
-		<string>rightsinglequo</string>
 		<string>exclam</string>
 		<string>quotedbl</string>
 		<string>numbersign</string>
@@ -457,10 +412,6 @@
 		<string>exclamdown</string>
 		<string>periodcentered</string>
 		<string>questiondown</string>
-		<string>dagger</string>
-		<string>doubledagger</string>
-		<string>bullet</string>
-		<string>ellipsis</string>
 		<string>plus</string>
 		<string>less</string>
 		<string>equal</string>
@@ -499,35 +450,6 @@
 		<string>onesuperior</string>
 		<string>threesuperior</string>
 		<string>twosuperior</string>
-		<string>W2</string>
-		<string>M2</string>
-		<string>tea</string>
-		<string>cocktail</string>
-		<string>the</string>
-		<string>bullet.copy_1</string>
-		<string>doubledagger.copy_1</string>
-		<string>question.copy_1</string>
-		<string>percent.copy_1</string>
-		<string>colon.copy_1</string>
-		<string>periodcentered.copy_1</string>
-		<string>period.copy_1</string>
-		<string>ampersand.copy_1</string>
-		<string>questiondown.copy_1</string>
-		<string>dagger.copy_1</string>
-		<string>ellipsis.copy_1</string>
-		<string>quotesingle.copy_1</string>
-		<string>less.copy_1</string>
-		<string>asterisk.copy_1</string>
-		<string>semicolon.copy_1</string>
-		<string>numbersign.copy_1</string>
-		<string>comma.copy_1</string>
-		<string>slash.copy_1</string>
-		<string>backslash.copy_1</string>
-		<string>at.copy_1</string>
-		<string>exclamdown.copy_1</string>
-		<string>plus.copy_1</string>
-		<string>wuuuhh</string>
-		<string>fi</string>
 	</array>
 </dict>
 </plist>
