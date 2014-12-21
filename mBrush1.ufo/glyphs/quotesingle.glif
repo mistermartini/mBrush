@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="I" format="1">
-  <advance width="223"/>
-  <unicode hex="0049"/>
+<glyph name="quotesingle" format="1">
+  <advance width="500"/>
+  <unicode hex="0027"/>
   <outline>
     <contour>
-      <point x="154" y="759" type="line"/>
-      <point x="188" y="612"/>
-      <point x="153" y="42"/>
-      <point x="154" y="0" type="curve"/>
-      <point x="52" y="-2" type="line"/>
-      <point x="51" y="38"/>
-      <point x="88" y="594"/>
-      <point x="56" y="737" type="curve"/>
+      <point x="287" y="743" type="line"/>
+      <point x="327" y="705"/>
+      <point x="330" y="639"/>
+      <point x="333" y="596" type="curve"/>
+      <point x="231" y="590" type="line"/>
+      <point x="230" y="611"/>
+      <point x="239" y="649"/>
+      <point x="217" y="671" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -37,25 +37,25 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>102.0</real>
+                  <integer>282</integer>
                   <key>y</key>
-                  <integer>-2</integer>
+                  <integer>593</integer>
                 </dict>
                 <dict>
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>101.0</real>
+                  <integer>280</integer>
                   <key>y</key>
-                  <integer>39</integer>
+                  <integer>625</integer>
                 </dict>
                 <dict>
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>137.0</real>
+                  <integer>283</integer>
                   <key>y</key>
-                  <integer>602</integer>
+                  <integer>677</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -63,9 +63,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>104.0</real>
+                  <integer>252</integer>
                   <key>y</key>
-                  <integer>747</integer>
+                  <integer>707</integer>
                 </dict>
               </array>
             </dict>
@@ -74,12 +74,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>I</string>
+          <string>quotesingle</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>223</integer>
+          <integer>500</integer>
         </dict>
       </dict>
     </dict>
